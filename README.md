@@ -1,6 +1,6 @@
 # custom_notification_plugin
 
-A new Flutter plugin project.
+Enhance apps with custom, engaging notifications. Open-source Flutter plugin for Android & iOS.
 
 ## Getting Started
 

@@ -1,8 +1,8 @@
 name: custom_notification_plugin
 description: Enhance apps with custom, engaging notifications. Open-source Flutter plugin for Android & iOS.
-version: 0.0.2
-homepage: https://pub.dev/publishers/mobiletechclub.com/packages
-
+version: 0.0.3
+homepage: https://pub.dev/packages/custom_notification_plugin
+repository: https://github.com/victorhugo963/custom_notification_plugin
 environment:
   sdk: '>=3.1.2 <4.0.0'
   flutter: '>=3.3.0'
